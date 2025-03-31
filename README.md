@@ -1,6 +1,8 @@
-# ¡Hola! Soy Lurker ✨
+# ¡Hola! Soy Sara Leite ✨
 
-Soy artista digital 🎨 con pasión por el desarrollo web 💻. Mi objetivo es combinar creatividad y código para crear experiencias únicas 🌐.
+Soy una artista digital 🎨 con pasión por el desarrollo web 💻. Mi objetivo es combinar creatividad y código para crear experiencias únicas 🌐.
+
+
 
 ## Proyectos
 
