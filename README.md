@@ -2,7 +2,7 @@
 
 Estudiante de Grado Superior de Administración de Sistemas Informáticos en Red | Diseñadora Web en Formación | Ilustradora Creativa
 
-![https://github.com/millenniumlurker](./milleniumlurker_github_profile.png)
+![https://github.com/millenniumlurker](./millenniumlurker_github_profile.png)
 
 ## Proyectos
 
