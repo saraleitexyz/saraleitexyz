@@ -12,7 +12,7 @@ Mi objetivo es combinar mi conocimiento técnico en informática con mi habilida
 
 - [Frontend Developer Roadmap](https://github.com/millenniumlurker/frontend_roadmap)
 
->Este repositorio está dedicado al estudio y aprendizaje del **Frontend Roadmap** desarrollado por [@kamranahmedse]((https://github.com/kamranahmedse)). El objetivo de este proyecto es seguir los pasos y recursos recomendados para convertirte en una desarrolladora frontend completa.
+>Este repositorio está dedicado al estudio y aprendizaje del **Frontend Roadmap** desarrollado por [@kamranahmedse](https://github.com/kamranahmedse). El objetivo de este proyecto es seguir los pasos y recursos recomendados para convertirte en una desarrolladora frontend completa.
 
 >Puedes ver el roadmap completo [aquí](https://roadmap.sh/frontend).
 
