@@ -1,8 +1,8 @@
 # ¡Hola! Soy Sara Leite ✨
 
-Soy una artista digital 🎨 con pasión por el desarrollo web 💻. Mi objetivo es combinar creatividad y código para crear experiencias únicas 🌐.
+Estudiante de Grado Superior de Administración de Sistemas Informáticos en Red | Diseñadora Web en Formación | Ilustradora Creativa
 
-
+![https://github.com/millenniumlurker](./milleniumlurker_github_profile.png)
 
 ## Proyectos
 
