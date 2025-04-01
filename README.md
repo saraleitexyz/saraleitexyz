@@ -12,27 +12,17 @@ Mi objetivo es combinar mi conocimiento técnico en informática con mi habilida
 
 - [Frontend Developer Roadmap](https://github.com/millenniumlurker/frontend_roadmap)
 
-Este repositorio está dedicado al estudio y aprendizaje del **Frontend Roadmap** desarrollado por **Kamrify**. El objetivo de este proyecto es seguir los pasos y recursos recomendados para convertirte en una desarrolladora frontend completa.
+>Este repositorio está dedicado al estudio y aprendizaje del **Frontend Roadmap** desarrollado por [@kamranahmedse]((https://github.com/kamranahmedse)). El objetivo de este proyecto es seguir los pasos y recursos recomendados para convertirte en una desarrolladora frontend completa.
 
-## Enlace al Frontend Roadmap de Kamrify
+>Puedes ver el roadmap completo [aquí](https://roadmap.sh/frontend).
 
-Puedes ver el roadmap completo [aquí](https://roadmap.sh/frontend).
+- [NeoCities](https://github.com/millenniumlurker/neocities_website) (EN PAUSA)
 
-- [NeoCities](https://github.com/millenniumlurker/neocities_website)
+>Este proyecto está endedicado a mostrar la estética de los **sitios web antiguos**, fusionándola con un enfoque moderno de **diseño limpio** y **fácil de usar**. El objetivo es recrear la sensación nostálgica de los primeros días de internet con una experiencia agradable.
 
-Este proyecto está endedicado a mostrar la estética de los **sitios web antiguos**, fusionándola con un enfoque moderno de **diseño limpio** y **fácil de usar**. El objetivo es recrear la sensación nostálgica de los primeros días de internet con una experiencia agradable.
+>Puedes ver el proyecto en vivo en el siguiente enlace de [**Neocities**](https://millenniumlurker.neocities.org/).
 
-## Estado del Proyecto
-
-**Actualmente el proyecto está en pausa**.
-
-## Enlace al Proyecto en Neocities
-
-Puedes ver el proyecto en vivo en el siguiente enlace de **Neocities**:
-
-[Visita el proyecto en Neocities](https://millenniumlurker.neocities.org/)
-
-## Contacto
+## Contacto:
 
 Puedes encontrarme en:
 - [LinkedIn](https://www.linkedin.com/in/sara-leite99/)
