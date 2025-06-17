@@ -1,30 +1,33 @@
-# ¡Hola! Soy Sara Leite ✨
+# Hey, I'm Sara Leite! ☆
 
-Estudiante de Grado Superior de Administración de Sistemas Informáticos en Red | Diseñadora Web en Formación | Ilustradora
+Higher Vocational Student in Networked Computer Systems Administration | Web Designer in Training | Illustrator
 
 ![https://github.com/millenniumlurker](./millenniumlurker_github_profile.png)
 
-Soy una estudiante de Grado Superior en Administración de Sistemas Informáticos en Red con un gran interés en el diseño web y la experiencia del usuario (UX/UI). 
+I'm a Higher Vocational student in Networked Computer Systems Administration with a strong interest in web design and user experience (UX/UI).
 
-Mi objetivo es combinar mi conocimiento técnico en informática con mi habilidad creativa para diseñar sitios web eficientes y visualmente impactantes.
+My goal is to combine my technical knowledge in IT with my creative skills to design efficient and visually impactful websites.
 
-## Proyectos actuales:
+## Current projects:
 
 - [Frontend Developer Roadmap](https://github.com/millenniumlurker/frontend_roadmap)
 
->Este repositorio está dedicado al estudio y aprendizaje del **Frontend Roadmap** desarrollado por [@kamranahmedse](https://github.com/kamranahmedse). El objetivo de este proyecto es seguir los pasos y recursos recomendados para convertirte en una desarrolladora frontend completa.
+>This repository is dedicated to studying and learning from the **Frontend Roadmap** developed by [@kamranahmedse](https://github.com/kamranahmedse). The goal of this project is to follow the recommended steps and resources to become a well-rounded frontend developer.
 
->Puedes ver el roadmap completo [aquí](https://roadmap.sh/frontend).
+>You can view the full roadmap [here](https://roadmap.sh/frontend).
 
-- [NeoCities](https://github.com/millenniumlurker/neocities_website) (EN PAUSA)
+- [NeoCities](https://github.com/millenniumlurker/neocities_website) (ON HOLD)
 
->Este proyecto está endedicado a mostrar la estética de los **sitios web antiguos**, fusionándola con un enfoque moderno de **diseño limpio** y **fácil de usar**. El objetivo es recrear la sensación nostálgica de los primeros días de internet con una experiencia agradable.
+>This project is dedicated to showcasing the aesthetic of **early web design**, blending it with a modern approach to clean and user-friendly design. The aim is to recreate the nostalgic feeling of the early internet with an enjoyable experience.
 
->Puedes ver el proyecto en vivo en el siguiente enlace de [**Neocities**](https://millenniumlurker.neocities.org/).
+>You can view the live project on [**Neocities**](https://millenniumlurker.neocities.org/).
 
-## Contacto:
+## Contact:
 
-Puedes encontrarme en:
-- [LinkedIn](https://www.linkedin.com/in/sara-leite99/)
-
-¡Gracias por visitar mi perfil! 🚀
+You can find me on:
+- [LinkTree](https://linktr.ee/millenniumlurker)
+- [LinkedIn](http://www.linkedin.com/in/millenniumlurker)
+- [GitHub | Web Portfolio](https://github.com/millenniumlurker)
+- [Tumblr | Art Portfolio](https://millenniumlurker.tumblr.com/)
+  
+Thanks for visiting my profile! ☆
