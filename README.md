@@ -4,7 +4,7 @@ Higher Vocational Student in Networked Computer Systems Administration | Web Des
 
 ![https://github.com/millenniumlurker](./millenniumlurker_github_profile.png)
 
-I'm a Higher Vocational student in Networked Computer Systems Administration with a strong interest in web design and user experience (UX/UI).
+I'm IT student with a strong interest in web design and user experience (UX/UI).
 
 My goal is to combine my technical knowledge in IT with my creative skills to design efficient and visually impactful websites.
 
