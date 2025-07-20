@@ -1,33 +1,43 @@
-# Hey, I'm Sara Leite! ☆
+# Hi, I'm Sara Leite! 👋
 
-Higher Vocational Student in Networked Computer Systems Administration | Web Designer in Training | Illustrator
 
-![https://github.com/millenniumlurker](./millenniumlurker_github_profile.png)
 
-I'm a IT student with a strong interest in web design and user experience (UX/UI).
+Junior Web Designer & Developer | ASIR Student & Illustrator  
+Passionate about building accessible websites, Linux systems and cybersecurity.  
+I combine technical skills with creativity to design efficiently.
 
-My goal is to combine my technical knowledge in IT with my creative skills to design efficient and visually impactful websites.
+---
 
-## Current projects:
+## 🚀 Current Projects
 
-- [Frontend Developer Roadmap](https://github.com/millenniumlurker/frontend_roadmap)
+- **[Personal Portfolio](https://saraleitexyz.github.io)**  
+  Showcases my web design and development work with a minimalist and accessible approach.
 
->This repository is dedicated to studying and learning from the **Frontend Roadmap** developed by [@kamranahmedse](https://github.com/kamranahmedse). The goal of this project is to follow the recommended steps and resources to become a well-rounded frontend developer.
+- **[Frontend Developer Roadmap](https://github.com/saraleitexyz/frontend_roadmap)**  
+  Following the comprehensive roadmap by [kamranahmedse](https://github.com/kamranahmedse) to master frontend technologies.
 
->You can view the full roadmap [here](https://roadmap.sh/frontend).
+- **[Open Source Contributions & Scripts]**  
+  Practical projects and scripts improving my Linux and cybersecurity skills. *(Coming soon!)*
 
-- [NeoCities](https://github.com/millenniumlurker/neocities_website) (ON HOLD)
+---
 
->This project is dedicated to showcasing the aesthetic of **early web design**, blending it with a modern approach to clean and user-friendly design. The aim is to recreate the nostalgic feeling of the early internet with an enjoyable experience.
+## 💡 Skills & Tools
 
->You can view the live project on [**Neocities**](https://millenniumlurker.neocities.org/).
+- **Frontend:** HTML, CSS, JavaScript, Web Accessibility  
+- **Design:** Figma, Adobe XD, Photoshop, Canva  
+- **Backend & Scripting:** Bash, SQL  
+- **Systems & Networking:** Linux, Windows, LAN, Technical Support  
+- **Cybersecurity:** Foundations and applied practice (ongoing learning)
 
-## Contact:
+---
 
-You can find me on:
-- [LinkTree](https://linktr.ee/millenniumlurker)
-- [LinkedIn](http://www.linkedin.com/in/millenniumlurker)
-- [GitHub | Web Portfolio](https://github.com/millenniumlurker)
-- [Tumblr | Art Portfolio](https://millenniumlurker.tumblr.com/)
-  
-Thanks for visiting my profile! ☆
+## 📫 Connect with Me
+
+- Email: saraleite.mail@gmail.com  
+- LinkedIn: [linkedin.com/in/saraleite-ml](https://linkedin.com/in/saraleite-ml)  
+- Portfolio: [saraleitexyz.github.io](https://saraleitexyz.github.io)
+
+---
+
+*“Less is more.”* — Ludwig Mies van der Rohe  
+Thank you for visiting my profile! Feel free to reach out.
