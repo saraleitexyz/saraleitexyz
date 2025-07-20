@@ -2,9 +2,10 @@
 
 ![Banner](./saraleitexyz_banner.jpg)
 
-I'm a junior web designer and developer currently studying Computer Systems and Network Administrator (ASIR) 
-with training and experience in web design, UX/UI, and digital illustration.
-I'm looking for a junior role where I can keep learning (something I'm passionate about) and contribute with creativity, structure, and a technical mindset.
+I'm a **junior web designer and developer** currently studying Computer Systems and Network Administrator (*ASIR*) 
+with training and experience in web design, UX/UI and digital illustration.
+
+I'm looking for a junior role where I can keep learning (*something I'm passionate about*) and contribute with creativity, structure, and a technical mindset.
 
 ---
 
@@ -15,7 +16,7 @@ I'm looking for a junior role where I can keep learning (something I'm passionat
 
 - **[Cheeky Commit Bot](https://github.com/saraleitexyz/cheeky_commit_bot)** 
   *(Coming soon!)*
-
+  
 ---
 
 ## 🔌 Skills & tools:
@@ -29,6 +30,7 @@ I'm looking for a junior role where I can keep learning (something I'm passionat
 ---
 
 ## 💌 Contact me:
+
 - Email: saraleite.mail@gmail.com  
 - LinkedIn: [linkedin.com/in/saraleite-ml](https://linkedin.com/in/saraleite-ml)  
 - Portfolio: [saraleitexyz.github.io](https://saraleitexyz.github.io)
@@ -36,5 +38,7 @@ I'm looking for a junior role where I can keep learning (something I'm passionat
 ---
 
 *“I make myself rich, by making my wants few.”* — Thoreau 𓋼𖤣𖥧𓋼𓍊
+
+---
 
 Thank you for visiting my profile, see ya! ♡
