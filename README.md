@@ -1,6 +1,6 @@
 # Hi, I'm Sara Leite! 👋
 
-
+![Banner](./saraleitexyz_banner.jpg)
 
 Junior Web Designer & Developer | ASIR Student & Illustrator  
 Passionate about building accessible websites, Linux systems and cybersecurity.  
