@@ -12,10 +12,10 @@ I'm looking for a junior role where I can keep learning (*something I'm passiona
 ## 📜 Current projects:
 
 - **[Personal Portfolio](https://saraleitexyz.github.io)**  
-  Showcases my web design and development work with a minimalist and accessible approach.
+Showcases my web design and development work with a minimalist and accessible approach.
 
-- **[Cheeky Commit Bot](https://github.com/saraleitexyz/cheeky_commit_bot)** 
-  A cheeky little bot designed to teach Git and SSH through humor and maybe a touch of chaos.
+- **[Cheeky Commit Bot](https://github.com/saraleitexyz/cheeky_commit_bot)**
+A cheeky little bot designed to teach Git and SSH through humor and maybe a touch of chaos.
   
 ---
 
