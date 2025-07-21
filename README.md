@@ -15,7 +15,7 @@ I'm looking for a junior role where I can keep learning (*something I'm passiona
   Showcases my web design and development work with a minimalist and accessible approach.
 
 - **[Cheeky Commit Bot](https://github.com/saraleitexyz/cheeky_commit_bot)** 
-  *(Coming soon!)*
+  A cheeky little bot designed to teach Git and SSH through humor and maybe a touch of chaos.
   
 ---
 
