@@ -34,6 +34,7 @@ A cheeky little bot designed to teach Git and SSH through humor and maybe a touc
 - Email: saraleite.mail@gmail.com  
 - LinkedIn: [linkedin.com/in/saraleite-ml](https://linkedin.com/in/saraleite-ml)  
 - Portfolio: [saraleitexyz.github.io](https://saraleitexyz.github.io)
+- TryHackMe: [https://tryhackme.com/p/saraleitexyz](https://tryhackme.com/p/saraleitexyz)
 
 ---
 
